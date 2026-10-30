@@ -1,0 +1,9 @@
+# 运行环境依赖
+# 安装：pip install -r requirements.txt
+
+streamlit>=1.30
+pandas==2.3.3
+requests>=2.31
+mygene>=3.2
+biopython>=1.81
+numpy

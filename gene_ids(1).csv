@@ -1,0 +1,9 @@
+﻿输入的基因符号,Entrez ID,官方全名,是否找到
+TP53,7157,tumor protein p53,是
+EGFR,1956,epidermal growth factor receptor,是
+BRCA1,672,BRCA1 DNA repair associated,是
+MYC,4609,"MYC proto-oncogene, bHLH transcription factor",是
+KRAS,3845,"KRas proto-oncogene, GTPase",是
+PTEN,5728,phosphatase and tensin homolog,是
+RB1,5925,RB transcriptional corepressor 1,是
+CDKN2A,1029,cyclin dependent kinase inhibitor 2A,是

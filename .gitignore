@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# 含有密钥的本地脚本（绝不上传）
+run_llm.bat
+test_llm.bat
+.env
+key.txt
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统
+Thumbs.db
+.DS_Store
+
+# 临时输出（保留示例结果，忽略调试生成物）
+*_test.csv
+t_*.csv
+kr.csv
