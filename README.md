@@ -1,15 +1,13 @@
-# 肿瘤生信（科技B）
-```markdown
 # 基于大模型辅助的肿瘤生信自动化注释与文献挖掘工具
-
-> 上传基因列表，一键完成：ID转换 → GO/KEGG富集 → PubMed定向文献抓取 → LLM受约束结构化总结（每条结论强制附带PMID溯源）
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green)](#license)
 [![Status](https://img.shields.io/badge/Status-Active%20Development-orange)](#)
 
-> 挑战杯（大挑·课外学术科技作品竞赛）参赛作品 · 科技发明制作B类（软件类）
+**上传基因列表，一键完成**：ID转换 → GO/KEGG富集 → PubMed定向文献抓取 → LLM受约束结构化总结（每条结论强制附带PMID溯源）
+
+挑战杯（大挑·课外学术科技作品竞赛）参赛作品 · 科技发明制作B类（软件类）
 
 ---
 
