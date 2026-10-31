@@ -215,6 +215,12 @@ MYC
 
 ---
 
+## 📸 页面界面展示
+
+<img width="3072" height="1854" alt="生物实体注释与文献挖掘工具 和另外 1 个页面 - 个人 - Microsoft​ Edge 2026_10_31 23_19_45" src="https://github.com/user-attachments/assets/b237302e-6668-48b5-86c7-cb39b044f159" />
+<img width="3072" height="1854" alt="生物实体注释与文献挖掘工具 和另外 1 个页面 - 个人 - Microsoft​ Edge 2026_10_31 23_23_09" src="https://github.com/user-attachments/assets/fa4c66bb-246c-437a-a4b1-c96d41d1bdd9" />
+<img width="3072" height="1854" alt="生物实体注释与文献挖掘工具 和另外 1 个页面 - 个人 - Microsoft​ Edge 2026_10_31 23_24_07" src="https://github.com/user-attachments/assets/198c938e-d4e2-4a9d-8474-d0225e5e5e40" />
+
 ## ❓ FAQ
 
 **Q：工具目前只验证了肿瘤场景，应用面会不会比较窄？**
